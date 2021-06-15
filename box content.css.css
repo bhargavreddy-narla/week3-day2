@@ -1,0 +1,76 @@
+body {
+  background-color: aqua;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: unset;
+  margin: 150px;
+  padding: 0px;
+  line-height: auto;
+  text-align: center;
+}
+
+img {
+  background-color: coral;
+  border: 3px solid pink;
+}
+
+.ber {
+  border: 5px solid green;
+  width: 250px;
+  height: auto;
+  float: left;
+  margin: 15px;
+  padding: 10px;
+  text-align: justify;
+  font-family: unset;
+  font-weight: normal;
+  line-height: 30px;
+}
+
+.hong {
+  color: green;
+  border: 5px solid blue;
+  width: 350px;
+  height: auto;
+  float: left;
+  margin: 15px;
+  padding: 10px;
+  text-align: justify;
+  font-family: unset;
+  font-weight: normal;
+  text-decoration: underline;
+  line-height: normal;
+}
+
+.san {
+  border: 5px solid purple;
+  width: 250px;
+  height: auto;
+  float: left;
+  margin: 15px;
+  padding: 10px;
+  text-align: justify;
+  font-family: unset;
+  font-weight: normal;
+  line-height: normal;
+}
+h1 {
+  text-align: center;
+  color: deeppink;
+}
+
+#det {
+  border-top: 4px solid green;
+  border-right: 4px solid purple;
+  border-bottom: 4px solid tomato;
+  border-left: 4px solid yellow;
+  text-align: center;
+  background-color: mistyrose;
+  max-width: fit-content;
+}
+#kong {
+  border: 4px solid green;
+  text-align: center;
+  background-color: tomato;
+  max-width: fit-content;
+}
